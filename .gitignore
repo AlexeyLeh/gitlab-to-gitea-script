@@ -9,6 +9,3 @@
 *.log
 *.log.*
 *.sig
-
-pkg/
-src/
