@@ -26,12 +26,12 @@ $ ./gitlab-to-gitea.sh
     get webpath               ... OK
 
 *** found repo:
- 1 name:PCDR_Tst             own:kav      group:         path:kav/pcdr_tst                   desc:-
- 2 name:atl_test             own:rvv      group:         path:rvv/atlas-test                 desc:-
- 3 name:Calibration          own:lav      group:Gam      path:gam/gam-calibration            desc:The zond calibration
+ 1 name:PC_Tst               own:kkk      group:         path:kkk/pc_tst                     desc:-
+ 2 name:atl_test             own:rrr      group:         path:rrr/atl-test                   desc:-
+ 3 name:Calc                 own:lav      group:Gam      path:gam/gam-calc                   desc:The calc calibration
 
- 0: import kav/pcdr_tst ... OK
- 1: import rvv/atl-test ... OK
+ 0: import kkk/pc_tst   ... OK
+ 1: import rrr/atl-test ... OK
 ...
 ```
 
